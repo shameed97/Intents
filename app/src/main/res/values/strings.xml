@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="send_implement">Send Implement</string>
+    <string name="send_implicit">Send Implicit</string>
+    <string name="send_explicit">Send Explicit</string>
+    <string name="welcome_to_intent_filter">Welcome to Intent-Filter</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="your_message_will_appear_here">Your message will appear here..!</string>
+</resources>
